@@ -1,11 +1,13 @@
 {
-  "name": "Agent",
+  "name": "agent",
   "private": true,
   "scripts": {
     "build": "turbo build",
     "dev": "turbo dev",
+    "dev:backend": "cd apps/agent-api && rails server",
+    "dev:frontend": "cd apps/agent-project && pnpm dev",
     "lint": "turbo lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\""
   },
   "devDependencies": {
     "prettier": "^3.2.5",
