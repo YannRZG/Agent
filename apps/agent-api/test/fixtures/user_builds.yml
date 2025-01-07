@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  build_name: MyString
+  bonus_multiplier: 1.5
+  perks_multiplier: 1.5
+
+two:
+  user: two
+  build_name: MyString
+  bonus_multiplier: 1.5
+  perks_multiplier: 1.5

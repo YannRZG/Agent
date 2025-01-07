@@ -1,0 +1,21 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  cycle_name: MyString
+  player_cycle_type: MyString
+  nb_badge: 1
+  minimum_badge_rarity: MyString
+  start_date: 2024-11-25 13:08:30
+  end_date: 2024-11-25 13:08:30
+  nb_date_repeat: 1
+
+two:
+  user: two
+  cycle_name: MyString
+  player_cycle_type: MyString
+  nb_badge: 1
+  minimum_badge_rarity: MyString
+  start_date: 2024-11-25 13:08:30
+  end_date: 2024-11-25 13:08:30
+  nb_date_repeat: 1

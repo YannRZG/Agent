@@ -1,0 +1,43 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  id: 1
+  build: MyString
+  date: 2024-11-25 13:08:32
+  map: MyString
+  total_fee: 1
+  fee_cost: 1.5
+  slots: MyString
+  luckrate: 1.5
+  time: 1
+  energy_used: 1
+  energy_cost: 1.5
+  total_token: 1
+  token_value: 1.5
+  total_premium_currency: 1
+  premium_currency_value: 1.5
+  profit: 1.5
+  bonus_multiplier: 1.5
+  perks_multiplier: 1.5
+
+two:
+  user: two
+  id: 1
+  build: MyString
+  date: 2024-11-25 13:08:32
+  map: MyString
+  total_fee: 1
+  fee_cost: 1.5
+  slots: MyString
+  luckrate: 1.5
+  time: 1
+  energy_used: 1
+  energy_cost: 1.5
+  total_token: 1
+  token_value: 1.5
+  total_premium_currency: 1
+  premium_currency_value: 1.5
+  profit: 1.5
+  bonus_multiplier: 1.5
+  perks_multiplier: 1.5
